@@ -9,9 +9,9 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 const Footer = () => {
   return (
     <Grid container sx={{display:'flex',justifyContent:'space-around', p:2, backgroundColor:'#008B8B'}}>
-      <Grid item xs={12} md={9} sx={{display:'flex', alignItems:"center", pl:20}}>
+      <Grid item xs={12} md={9} sx={{display:'flex', alignItems:"center", pl:5}}>
         <Typography varient='h1' sx={{color: "#F2E6CE",fontFamily: "cinzel", fontSize:'20px'}}>
-        This is my footer
+        © 2025 SN Info Systems Test Project. All Rights Reserved. Developed by Hridanshu 
         </Typography>
       </Grid>
       <Grid item xs={12} md={3} sx={{display:'flex', gap:1}}>

@@ -31,7 +31,7 @@ const Test = () => {
         </Typography>
       </Grid>
         {data.map((data, index) =>(
-            <Grid item key={index} md={2} xs={12} sx={{}}>
+            <Grid item key={index} md={2} xs={12} sx={{}}>2
                 <Card 
                     sx={{
                         p:'20px',
